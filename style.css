@@ -1,0 +1,39 @@
+.navbar {
+    background-color: blueviolet; !important
+}
+
+.menu {
+    text-decoration: none;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: blueviolet
+}
+.mae {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+form {
+    display: flex;
+    flex-wrap:wrap ;
+}
+h2 {
+   display: flex;
+   justify-content: center;
+   margin-top: 0%;
+   
+}
+.card {
+    margin: 30px;
+}
+.carousel-inner {
+    height: 300px;
+    
+}
+footer {
+    background-color: blueviolet
+    
+   
+}
